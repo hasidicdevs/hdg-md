@@ -1,0 +1,33 @@
+{
+  "name": "hdg-md",
+  "version": "1.0.1",
+  "description": "Markdown previewer for HDG internal tools",
+  "keywords": [
+    "markdown",
+    "viewer",
+    "tool"
+  ],
+  "bugs" : {
+    "url" : "https://github.com/hasidicdevs/hdg-md/issues",
+    "email" : "github@hasidic.dev"
+  },
+  "homepage": "https://github.com/hasidicdevs/hdg-md#readme",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "Yosi Leyid <yosi@hasidic.dev> (https://hasidic.dev/staff)",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "marked": "^4.2.12"
+  },
+  "funding": {
+    "type":"Github",
+    "url":"https://github.com/sponsors/yosileyid"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/hasidicdevs/hdg-md.git"
+  }
+}
